@@ -1,0 +1,13 @@
+.titulo {
+    background-color: black;
+    opacity: 0.9;
+    border-radius: 50px;
+    color: rgb(39, 94, 131);
+    margin: 20px;
+    display: flex;
+    font-family: "courier-std", monospace;
+    font-style:normal;
+    font-size: 300%;
+    text-align: center;
+    flex-direction: column;
+    }
